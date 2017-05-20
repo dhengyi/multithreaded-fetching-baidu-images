@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Java工具类/FastJson" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Java工具类/FastJson" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Java工具类/FastJson" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Java工具类/FastJson" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Java工具类/httpcomponents-client-4.5.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Java工具类/httpcomponents-client-4.5.2/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Java工具类/jsoup-1.8.3" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Java工具类/jsoup-1.8.3" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Java工具类/jsoup-1.8.3" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Java工具类/jsoup-1.8.3" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Java工具类/jsoup-1.8.3" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Java工具类/jsoup-1.8.3" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Java工具类/jsoup-1.8.3" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Java工具类/jsoup-1.8.3" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
